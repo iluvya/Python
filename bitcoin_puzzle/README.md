@@ -9,6 +9,6 @@ In 2015, in order to show the hugeness of the private key space (or maybe just f
 2255 ≤ random key < 2256 — 0.256 BTC <br>
 (total 32.896 BTC)
 
-As of June 2020, first 63 and #65, #70, #75, #80, #85, #90, #95, #100, #105, #110, #115 addresses have been cracked. People are still trying to crack #64 address, which requires scanning 9,223,372,036,854,775,808 keys.
+As of October 2022, first 65, #70, #75, #80, #85, #90, #95, #100, #105, #110, #115 addresses have been cracked. People are still trying to crack #66 address, which requires scanning 36,893,488,147,419,103,231 keys.
 
-This python script tries to guess #64 address in a random manner.
+This python script tries to guess #66 address in a random manner.
